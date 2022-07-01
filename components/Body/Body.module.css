@@ -1,0 +1,126 @@
+.html, body, #root {
+    width: 100%;
+    height: 100%;
+    background: #E5E5E5;
+    
+}
+.container {
+    height: 923px;
+}
+.imagecontainer1 {
+    display: flex;
+}
+.image1 {
+    width: 225px;
+    height: 225px;
+    margin-left: 62px;
+    margin-top: 48px;
+
+}
+.image2 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 51px;
+
+}
+.image3 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 52px;
+
+}
+.image4 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 53px;
+
+}
+.image5 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 51px;
+
+}
+
+.imagecontainer2 {
+    display: flex;
+}
+.image6 {
+    width: 225px;
+    height: 225px;
+    margin-left: 62px;
+    margin-top: 52px;
+}
+.image7 {
+    width: 225px;
+    height: 225px;
+    margin-top: 52px;
+    margin-left: 48px;
+}
+.image8 {
+    width: 225px;
+    height: 225px;
+    margin-top: 52px;
+    margin-left: 48px;
+}
+.image9 {
+    width: 225px;
+    height: 225px;
+    margin-top: 52px;
+    margin-left: 46px;
+}
+.image10 {
+    width: 225px;
+    height: 225px;
+    margin-top: 52px;
+    margin-left: 47px;
+}
+
+.imagecontainer3 {
+    display: flex;
+}
+.image11 {
+    width: 225px;
+    height: 223px;
+    margin-top: 48px;
+    margin-left: 62px;
+}
+.image12 {
+    width: 225px;
+    height: 223px;
+    margin-left: 48px;
+    margin-top: 48px;
+}
+.image13 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 48px;
+}
+.image14 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 48px;
+}
+.image15 {
+    width: 225px;
+    height: 225px;
+    margin-left: 48px;
+    margin-top: 46px;
+}
+
+.button {
+    width: 195px;
+    height: 21px;
+    margin-left: 565px;
+    margin-top: 48px;
+    margin-bottom: 31px;
+
+    text-align: center;
+    letter-spacing: 0.5;
+}

@@ -1,0 +1,47 @@
+.container {
+    height: 64px;
+    background-color:  #2196F3;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    display: flex;
+    padding-left: 62px;
+}
+.allcats {
+    width: 120px;
+    height: 64px;
+    background-color: #1E88E5;
+}
+.wrapper{
+    width: 120px;
+    height: 18px;
+    margin-bottom: 23px;
+    margin-top: 23px;
+    text-align: center;
+}
+.clevercats{
+    width: 173px;
+    height: 64px;
+    background-color: #2196F3;
+}
+.left {
+    height: 18px;
+    width: 173px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    
+}
+.button {
+    border: none;
+    color: white;
+    background-color: #1E88E5;
+}
+.button1 {
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: #2196F3;
+
+}
